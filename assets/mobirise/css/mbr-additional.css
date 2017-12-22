@@ -639,16 +639,6 @@ a:hover {
 #features4-s .heading-text {
   font-family: 'Oxygen', sans-serif;
 }
-#custom-html-r {
-  /* Type valid CSS here */
-}
-#custom-html-r .my-image {
-  width: 100%;
-}
-#custom-html-r .heading-title {
-  font-family: 'Oxygen', sans-serif;
-  color: #bf1e2e;
-}
 #msg-box5-w {
   
 }
@@ -661,12 +651,6 @@ a:hover {
   text-align: left;
   font-family: 'Oxygen', sans-serif;
 }
-#custom-html-1g {
-  /* Type valid CSS here */
-}
-#custom-html-1g .my-image {
-  width: 100%;
-}
 #form1-1d .form {
   background: #fafbfc;
 }
@@ -677,6 +661,21 @@ a:hover {
   color: #bf1e2e;
   text-align: left;
 }
+#custom-html-1p {
+  /* Type valid CSS here */
+}
+#custom-html-1p .my-image {
+  width: 100%;
+}
+#custom-html-1p .heading-title {
+  color: #bf1e2e;
+}
+#custom-html-1g {
+  /* Type valid CSS here */
+}
+#custom-html-1g .my-image {
+  width: 100%;
+}
 #custom-html-1h {
   /* Type valid CSS here */
 }
@@ -686,13 +685,14 @@ a:hover {
 #custom-html-1h .heading-title {
   color: #bf1e2e;
 }
-#custom-html-1p {
+#custom-html-r {
   /* Type valid CSS here */
 }
-#custom-html-1p .my-image {
+#custom-html-r .my-image {
   width: 100%;
 }
-#custom-html-1p .heading-title {
+#custom-html-r .heading-title {
+  font-family: 'Oxygen', sans-serif;
   color: #bf1e2e;
 }
 #footer2-13 .footer-list {

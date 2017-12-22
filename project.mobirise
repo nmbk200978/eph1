@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.4.0",
     "mcShopcart": {
       "email": "estherprayerhouse@gmail.com",
@@ -127,7 +127,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Calendar</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#feed-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#feed-1a\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#custom-html-1g\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">Give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1p\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1s\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1p\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#feed-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#feed-1a\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#custom-html-1g\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -265,6 +265,37 @@
           }
         },
         {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=yj-clGsCnEw",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1s",
+          "_customHTML": "<section class=\"mbr-section video1 mbr-section-nopadding\" data-rv-view=\"34\">\n\n    <div class=\"mbr-figure\">\n        <div><iframe class=\"mbr-embedded-video\" src=\"https://www.lastyt.com/estherprayerhouse\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n        \n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
           "_inherit": "features2",
           "_params": {
             "paddingTop": 2,
@@ -374,45 +405,6 @@
           }
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "\n\n<section class=\"mbr-section mbr-section-hero features2\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"container\">\n            \n            <center>\n<h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"20\">Events and Calendar</h1>\n<iframe src=\"https://calendar.google.com/calendar/b/3/embed?showTitle=0&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=estherprayerhouse%40gmail.com&amp;color=%231B887A&amp;ctz=Asia%2FCalcutta\" style=\"border:solid 1px #777\" width=\"100%\" height=\"400\" frameborder=\"0\" scrolling=\"no\"></iframe></center>\n\n    </div>\n</section>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-r",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": 3,
-            "facebook": "estherprayerhouse",
-            "twitter": "estherprayers",
-            "google": "estherprayerhouse",
-            "youtube": "UCCMKIY49CpccMyP9MKRiZsQ",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-1a"
-        },
-        {
           "_inherit": "msg-box3",
           "_params": {
             "showTitle": true,
@@ -496,27 +488,11 @@
           },
           "_name": "msg-box5",
           "_anchor": "msg-box5-w",
-          "_customHTML": "<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"25\">Salvation TV</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"26\">Salvation TV ministry was founded in the year 2007 in obedience to our Lord Jesus Christ’s great calling to reach the world through media &amp; technology. Our humble beginning started with the launch of “Salvation TV” as a local 24×7 Christian channel serving a small town in Vellore District, in Tamil Nadu India covering over 50,000 viewers. Since then, God has been enabling us to reach the unreached by expanding our network coverage to neighboring cities and states in India. In the year 2013, by our Lord’s grace Salvation TV expanded its broadcasting through Satellite reaching over 120 countries. God has been so faithful in his promise and has made Salvation TV as a great blessing for many millions in India and around the world through its very unique Television programs, outreach, prayer &amp; counselling ministries to enrich people’s spiritual and material life.\n<br><br>Today, Salvation TV has a coverage of over 50 million (5 Crore) Television viewers in India alone with more and more countries taking Salvation TV’s free to air Satellite downstream to broadcast in their country’s local cable channels.&nbsp;</p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/m1-adr2OKks?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=1&amp;playlist=m1-adr2OKks\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"14\">Salvation TV</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"15\">Salvation TV ministry was founded in the year 2007 in obedience to our Lord Jesus Christ’s great calling to reach the world through media &amp; technology. Our humble beginning started with the launch of “Salvation TV” as a local 24×7 Christian channel serving a small town in Vellore District, in Tamil Nadu India covering over 50,000 viewers. Since then, God has been enabling us to reach the unreached by expanding our network coverage to neighboring cities and states in India. In the year 2013, by our Lord’s grace Salvation TV expanded its broadcasting through Satellite reaching over 120 countries. God has been so faithful in his promise and has made Salvation TV as a great blessing for many millions in India and around the world through its very unique Television programs, outreach, prayer &amp; counselling ministries to enrich people’s spiritual and material life.\n<br><br>Today, Salvation TV has a coverage of over 50 million (5 Crore) Television viewers in India alone with more and more countries taking Salvation TV’s free to air Satellite downstream to broadcast in their country’s local cable channels.&nbsp;</p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/m1-adr2OKks?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=1&amp;playlist=m1-adr2OKks\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n.mbr-section-title {\n  color: #fff;\n  line-height: 1;\n}\n.round-text {\n  color: #fff;\n  text-align: left;\n  font-family: 'Oxygen', sans-serif;\n}\n",
           "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"embedsocial-album\" data-ref=\"3a7c8fdac8bb6765a115068c19223fb7738a89fe\"></div>{JS_CODE_0}",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-1g",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/embedscript/ei.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js);}(document, \"script\", \"EmbedSocialScript\"));</script>"
-          ]
         },
         {
           "_params": {
@@ -592,6 +568,61 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n<section class=\"mbr-section mbr-section-hero features2\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"container\">\n            \n            <center>\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"37\">Testimonies</h1>\n              <iframe width=\"600\" height=\"400\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n            \n            \n            </center>\n\n    </div>\n</section>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  color: #bf1e2e;\n  }",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1p",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "postToLoad": 3,
+            "facebook": "estherprayerhouse",
+            "twitter": "estherprayers",
+            "google": "estherprayerhouse",
+            "youtube": "UCCMKIY49CpccMyP9MKRiZsQ",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.7"
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-1a"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"embedsocial-album\" data-ref=\"3a7c8fdac8bb6765a115068c19223fb7738a89fe\"></div>{JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/embedscript/ei.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js);}(document, \"script\", \"EmbedSocialScript\"));</script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
           "_customHTML": "\n\n\n<section class=\"mbr-section mbr-section-hero features2\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"container\">\n            \n            <center>\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"153\">Give</h1>\n                Thank you for supporting Esther Prayer House with your giving. Your generosity is greatly appreciated!\n\nOn the next page, in the Price Per Item box, just type in the total amount of your donation and click continue.\n\nWe pray that the Lord blesses you financially as you bless the church with your giving!\n<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_blank\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"3S743AWRJ89T8\">\n\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n  <div class=\"col-xs-12 col-md-8 col-md-offset-2 form-button-wrap\">\n<button type=\"submit\" name=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\" code-editable-id=\"154\">Make a Donation</button></div>                          \n    \n</form>\n            \n            \n            </center>\n\n    </div>\n</section>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  color: #bf1e2e;\n  }",
           "alias": "code-editor",
@@ -606,16 +637,36 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n\n\n<section class=\"mbr-section mbr-section-hero features2\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"container\">\n            \n            <center>\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"37\">Testimonies</h1>\n              <iframe width=\"600\" height=\"400\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n            \n            \n            </center>\n\n    </div>\n</section>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  color: #bf1e2e;\n  }",
+          "_customHTML": "\n\n<section class=\"mbr-section mbr-section-hero features2\" data-rv-view=\"28\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1630x1080.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"container\">\n            \n            <center>\n<h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"16\">Events and Calendar</h1>\n<iframe src=\"https://calendar.google.com/calendar/b/3/embed?showTitle=0&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=estherprayerhouse%40gmail.com&amp;color=%231B887A&amp;ctz=Asia%2FCalcutta\" style=\"border:solid 1px #777\" width=\"100%\" height=\"400\" frameborder=\"0\" scrolling=\"no\"></iframe></center>\n\n    </div>\n</section>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-1p",
+          "_anchor": "custom-html-r",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India",
+              "placeId": "",
+              "state": "not found",
+              "stateDetails": "Not found"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-l",
+          "_customHTML": "\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d485.8963894102112!2d77.63741638195414!3d13.024772884994714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x391a4a5fe40a78de!2sESTHER+PRAYER+HOUSE!5e0!3m2!1sen!2sus!4v1513027942544\" height=\"600\" frameborder=\"0\" width=\"100%\" style=\"border:2\" allowfullscreen=\"\"></iframe>  \n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -645,26 +696,6 @@
         },
         {
           "_params": {
-            "googleMap": {
-              "address": "412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India",
-              "placeId": "",
-              "state": "not found",
-              "stateDetails": "Not found"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-l",
-          "_customHTML": "\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d485.8963894102112!2d77.63741638195414!3d13.024772884994714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x391a4a5fe40a78de!2sESTHER+PRAYER+HOUSE!5e0!3m2!1sen!2sus!4v1513027942544\" height=\"600\" frameborder=\"0\" width=\"100%\" style=\"border:2\" allowfullscreen=\"\"></iframe>  \n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
             "showIcons": true,
             "rows": "1",
             "listColor": "@infoColor",
@@ -684,7 +715,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.9"
           },
-          "heading": "<b><br></b><br><b>Esther Prayer House /&nbsp;+91 97411 29270 / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -819,7 +850,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Calendar</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#feed-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#feed-1a\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#custom-html-1g\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">Give</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1p\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1s\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1p\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#feed-e\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#feed-1a\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#custom-html-1g\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -864,7 +895,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.9"
           },
-          "heading": "<b><br></b><br><b>Esther Prayer House /&nbsp;+91 97411 29270 / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
