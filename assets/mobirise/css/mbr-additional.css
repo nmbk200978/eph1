@@ -530,14 +530,14 @@ a:hover {
 #header4-39 .heading-title {
   color: #ffffff;
   font-size: 48px;
-  text-align: center;
+  text-align: left;
 }
 #header4-39 .heading-title B {
   font-size: 60px;
   color: #ffffff;
 }
 #header4-39 .heading-text {
-  text-align: center;
+  text-align: left;
 }
 #menu2-b .hide-buttons .nav-btn {
   display: none !important;
