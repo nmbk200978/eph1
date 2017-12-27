@@ -70,11 +70,11 @@
             "showButtons": false,
             "contentAlign": "left",
             "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled-collage-1920x1080.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled%20collage-1920x1080.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#bdb39a",
+            "bgColorRadio": true,
+            "bgColor": "#cfaca7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -98,14 +98,15 @@
             },
             ".heading-title": {
               "color": "#ffffff",
-              "font-size": "48px"
+              "font-size": "48px",
+              "text-align": "center"
             },
             ".heading-title B": {
               "font-size": "60px",
               "color": "#ffffff"
             },
             ".heading-text": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
