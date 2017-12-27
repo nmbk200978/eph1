@@ -172,7 +172,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -186,7 +186,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">SCHEDULE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -521,7 +521,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"mbr-figure\">\n            \n           \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"28\">Events and Calendar</h3>\n<center>\n<iframe src=\"https://calendar.google.com/calendar/b/1/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=en_GB&amp;bgcolor=%23ffffff&amp;src=estherprayerhouse%40gmail.com&amp;color=%231B887A&amp;ctz=Asia%2FCalcutta\" style=\"border:solid 1px #777\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe></center>\n    </div>\n</section>\n",
+          "_customHTML": "\n\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 80px; padding-bottom: 40px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n\n        <div class=\"mbr-figure\">\n            \n           \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"28\">Events and Schedule</h3>\n<center>\n<iframe src=\"https://calendar.google.com/calendar/b/1/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=en_GB&amp;bgcolor=%23ffffff&amp;src=estherprayerhouse%40gmail.com&amp;color=%231B887A&amp;ctz=Asia%2FCalcutta\" style=\"border:solid 1px #777\" width=\"100%\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe></center>\n    </div>\n</section>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -554,40 +554,14 @@
         },
         {
           "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20157159-1898784263777302-7872355639357617408-o-1-1400x509.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0",
-              "autoplay": "on",
-              "loop": "on"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-t"
-        },
-        {
-          "_params": {
             "showIcons": true,
             "rows": "1",
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -599,7 +573,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.8"
           },
-          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -727,7 +701,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -741,7 +715,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">SCHEDULE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -772,10 +746,10 @@
             "rows": "1",
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -787,7 +761,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.8"
           },
-          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -964,7 +938,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -978,7 +952,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">SCHEDULE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1009,10 +983,10 @@
             "rows": "1",
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1024,7 +998,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.8"
           },
-          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1163,7 +1137,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -1177,7 +1151,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">SCHEDULE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1208,10 +1182,10 @@
             "rows": "1",
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1223,7 +1197,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.8"
           },
-          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1365,7 +1339,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -1379,7 +1353,7 @@
             "fontColor": "#bf1e2e",
             "fontHoverColor": "#2d2d2d"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">CALENDAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">ANNOUNCEMENT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">BELIEF</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">MINISTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">PRAYER REQUEST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">TESTIMONIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">SOCIAL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">GALLERY</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1h\" aria-expanded=\"false\">GIVE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">SCHEDULE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1410,10 +1384,10 @@
             "rows": "1",
             "listColor": "@infoColor",
             "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1438x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1425,7 +1399,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.8"
           },
-          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><br></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
