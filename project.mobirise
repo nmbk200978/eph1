@@ -70,10 +70,10 @@
             "showButtons": false,
             "contentAlign": "left",
             "showArrow": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitled%20collage-1920x1080.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-collage-1920x1080.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cfaca7",
             "bgVideoRadio": false,
             "bgVideo": {
