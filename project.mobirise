@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-10_2119",
+    "name": "EPH-Version1.0",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -16,7 +16,7 @@
         "subtitleFont": "Oxygen",
         "textFont": "Oxygen",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -43,7 +43,14 @@
       "counterColor": "#FFFFFF",
       "counterBack": "#F97352",
       "checkoutButton": "Check Out with"
-    }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -115,7 +122,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -273,41 +280,11 @@
           },
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/christmaswishes-1064x650.jpg",
-              "width": 1400,
-              "link": "index.html#custom-html-1h",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-37",
-          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom image1\" data-rv-view=\"52\">\n    \n    <div class=\"mbr-figure\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(255, 255, 253);\"></div>\n        <div><a href=\"index.html#custom-html-1h\"><img src=\"@PROJECT_PATH@/assets/images/christmaswishes-1064x650.jpg\"></a></div>\n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
               "src": "@THEME_PATH@/components/_images/images/image1.jpg",
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=yj-clGsCnEw&list=PLrdlTLIeEfYLNoXE5fCTVt6nH8Bc1Q-9Q",
+              "src": "https://www.youtube.com/watch?v=DHyWUsX5qMU",
               "autoplay": false,
               "loop": false,
               "active": true
@@ -810,7 +787,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -1044,7 +1021,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -1240,7 +1217,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
@@ -1357,7 +1334,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 100px; padding-bottom: 40px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n        <div class=\"mbr-figure\">\n                          \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"155\">Testimonies</h3>\n\n            \n            \n              <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q&amp;rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n    </div>\n</section>\n",
+          "_customHTML": "\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 100px; padding-bottom: 40px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n        <div class=\"mbr-figure\">\n                          \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"18\">Testimonies</h3>\n\n            \n            \n              <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q&amp;rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n    </div>\n</section>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1439,7 +1416,7 @@
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "bgColor": "#fffffd",
             "fontSize": "1",
