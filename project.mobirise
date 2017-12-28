@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -193,9 +193,8 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "index.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -722,7 +721,7 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header1-1",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -959,9 +958,8 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "index.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1158,9 +1156,8 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "index.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1360,9 +1357,8 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "index.html",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
