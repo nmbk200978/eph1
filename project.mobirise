@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -193,8 +193,9 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -721,7 +722,7 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -958,8 +959,9 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1156,7 +1158,7 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "#top",
               "title": ""
             },
             "iconFont": {
@@ -1357,8 +1359,9 @@
               "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
