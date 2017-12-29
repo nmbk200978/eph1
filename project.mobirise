@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -77,7 +77,10 @@
             "bgColor": "#cfaca7",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+              "url": "https://www.youtube.com/embed/eoK9c9McbxY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/eoK9c9McbxY",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#2d2d2d",
@@ -221,7 +224,7 @@
               "width": 1400
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=DHyWUsX5qMU&feature=youtu.be&t=15s",
+              "src": "https://youtu.be/eoK9c9McbxY",
               "autoplay": false,
               "loop": false,
               "active": true
