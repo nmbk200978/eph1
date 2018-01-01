@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -220,14 +220,17 @@
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/c59ed59e-df6e-4298-b2fd-e0876b8bdf24-1280x721.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://youtu.be/eoK9c9McbxY",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
