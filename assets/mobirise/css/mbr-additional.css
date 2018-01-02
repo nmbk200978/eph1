@@ -530,14 +530,14 @@ a:hover {
 #header4-39 .heading-title {
   color: #ffffff;
   font-size: 48px;
-  text-align: left;
+  text-align: center;
 }
 #header4-39 .heading-title B {
   font-size: 60px;
   color: #ffffff;
 }
 #header4-39 .heading-text {
-  text-align: left;
+  text-align: center;
 }
 #menu2-b .hide-buttons .nav-btn {
   display: none !important;
@@ -1009,5 +1009,204 @@ a:hover {
   /* Type valid CSS here */
 }
 #custom-html-34 .my-image {
+  width: 100%;
+}
+
+#header4-3f .mbr-table-cell {
+  vertical-align: middle;
+}
+#header4-3f .heading-title {
+  color: #ffffff;
+  font-size: 48px;
+  text-align: left;
+}
+#header4-3f .heading-title B {
+  font-size: 60px;
+  color: #ffffff;
+}
+#header4-3f .heading-text {
+  text-align: left;
+}
+#menu2-3g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-3g .navbar-toggler {
+  color: #bf1e2e;
+}
+#menu2-3g .close-icon::before,
+#menu2-3g .close-icon::after {
+  background-color: #bf1e2e;
+}
+#menu2-3g .link,
+#menu2-3g .dropdown-item {
+  color: #bf1e2e;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu2-3g .link {
+  font-size: 1rem;
+}
+#menu2-3g .dropdown-item,
+#menu2-3g .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu2-3g .link:hover,
+#menu2-3g .link:focus {
+  color: #2d2d2d;
+}
+#menu2-3g .dropdown-item:hover::before,
+#menu2-3g .dropdown-item:focus::before {
+  background: #2d2d2d;
+}
+#menu2-3g .dropdown-item:hover,
+#menu2-3g .dropdown-item:focus {
+  color: #bf1e2e;
+}
+#menu2-3g .link[aria-expanded="true"],
+#menu2-3g .dropdown-menu {
+  background: #fffffd;
+}
+#menu2-3g .nav-dropdown-sm .link:focus,
+#menu2-3g .nav-dropdown-sm .link:hover,
+#menu2-3g .nav-dropdown-sm .dropdown-item:focus,
+#menu2-3g .nav-dropdown-sm .dropdown-item:hover {
+  background: #ffffee!important;
+}
+#menu2-3g .navbar,
+#menu2-3g .nav-dropdown-sm,
+#menu2-3g .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-3g .nav-dropdown-sm .dropdown-menu {
+  background: #fffffd;
+}
+#menu2-3g .bg-color.transparent .link {
+  color: #bf1e2e;
+  transition: none;
+}
+#menu2-3g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-3g .bg-color.transparent.opened .link:hover,
+#menu2-3g .bg-color.transparent.opened .link:focus {
+  color: #2d2d2d;
+}
+#menu2-3g .link[aria-expanded="true"],
+#menu2-3g .dropdown-item[aria-expanded="true"] {
+  color: #2d2d2d!important;
+}
+#menu2-3g .navbar-caption {
+  font-size: 20px;
+}
+#features4-3i {
+  
+  
+  
+  
+}
+#features4-3i .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
+}
+#features4-3i .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#features4-3i .card-img a {
+  border-width: 2px;
+  line-height: 72px;
+}
+#features4-3i .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
+}
+#features4-3i .card-title {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #bf1e2e;
+}
+#features4-3i .heading-title {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #bf1e2e;
+}
+#features4-3i .card-text {
+  font-family: 'Oxygen', sans-serif;
+}
+#features4-3i .heading-text {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-3j {
+  
+}
+#msg-box5-3j .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-3j .round-text {
+  color: #fff;
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+}
+#form1-3k .form {
+  background: #fafbfc;
+}
+#form1-3k .form {
+  background: #fafbfc;
+}
+#form1-3k .heading-title {
+  color: #bf1e2e;
+  text-align: left;
+}
+#custom-html-3l {
+  /* Type valid CSS here */
+}
+#custom-html-3l .my-image {
+  width: 100%;
+}
+#custom-html-3l .heading-title {
+  color: #bf1e2e;
+}
+#custom-html-3m {
+  /* Type valid CSS here */
+}
+#custom-html-3m .my-image {
+  width: 100%;
+}
+#custom-html-3m .heading-title {
+  font-family: 'Oxygen', sans-serif;
+  color: #bf1e2e;
+}
+#map1-3n {
+  /* Type valid CSS here */
+}
+#map1-3n .my-image {
+  width: 100%;
+}
+#map1-3n .heading-title {
+  font-family: 'Oxygen', sans-serif;
+  color: #bf1e2e;
+}
+#footer2-3o .footer-list {
+  color: #dfd9ca;
+}
+#footer2-3o .btn-social {
+  border-color: #dfd9ca;
+  color: #dfd9ca;
+}
+#footer2-3o .btn-social:hover {
+  background: #dfd9ca;
+  color: #fff;
+}
+#footer2-3o .footer-header B {
+  color: #bf1e2e;
+}
+#footer2-3o .footer-header {
+  color: #bf1e2e;
+}
+#footer2-3o LI {
+  color: #bf1e2e;
+}
+#custom-html-3p {
+  /* Type valid CSS here */
+}
+#custom-html-3p .my-image {
   width: 100%;
 }
