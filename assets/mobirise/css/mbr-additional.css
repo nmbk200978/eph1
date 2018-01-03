@@ -528,16 +528,19 @@ a:hover {
   vertical-align: middle;
 }
 #header4-39 .heading-title {
-  color: #ffffff;
+  color: #bf1e2e;
   font-size: 48px;
   text-align: left;
 }
 #header4-39 .heading-title B {
   font-size: 60px;
-  color: #ffffff;
+  color: #bf1e2e;
 }
 #header4-39 .heading-text {
   text-align: left;
+}
+#header4-39 .heading-text B {
+  color: #bf1e2e;
 }
 #menu2-b .hide-buttons .nav-btn {
   display: none !important;

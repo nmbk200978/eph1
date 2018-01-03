@@ -83,11 +83,11 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#bf1e2e",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
           },
           "title": "<b><br></b><br><b><br></b><br><b>Praise the Lord</b><b><br></b><br>Esther Prayer House<br>Welcomes You !!",
-          "text": "<br><br><b>Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.</b><br><i><b>Romans 10:17</b></i>",
+          "text": "<b><br></b><br><br><br><br><br><b>Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.</b><br><i><b>Romans 10:17</b></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -100,16 +100,19 @@
               "vertical-align": "middle"
             },
             ".heading-title": {
-              "color": "#ffffff",
+              "color": "#bf1e2e",
               "font-size": "48px",
               "text-align": "left"
             },
             ".heading-title B": {
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#bf1e2e"
             },
             ".heading-text": {
               "text-align": "left"
+            },
+            ".heading-text B": {
+              "color": "#bf1e2e"
             }
           }
         },
@@ -765,7 +768,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
@@ -963,7 +966,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
@@ -1165,7 +1168,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
@@ -1749,7 +1752,7 @@
             },
             "overlay": true,
             "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, Hrbr Layout, Near-Petrol Pump, Kalyan Nagar HRBR Layout 2nd Block, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
