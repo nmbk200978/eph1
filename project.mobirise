@@ -86,8 +86,8 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "title": "<b><br></b><br><b><br></b><br><b>Praise the Lord</b><b><br></b><br>Esther Prayer House<br>Welcomes You !!",
-          "text": "<b><br></b><br><br><br><br><br><b>Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.</b><br><i><b>Romans 10:17</b></i>",
+          "title": "<b><br></b><br><b>Praise the Lord&nbsp;</b><br>Esther Prayer House<br>Welcomes You !!",
+          "text": "<b><br></b><br><br><br>Consequently, faith comes from hearing the message, and the message is heard through the word about Christ.<br><i>Romans 10:17</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -109,7 +109,8 @@
               "color": "#bf1e2e"
             },
             ".heading-text": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#bf1e2e"
             },
             ".heading-text B": {
               "color": "#bf1e2e"
