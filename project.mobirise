@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -229,13 +229,14 @@
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://youtu.be/eoK9c9McbxY",
-              "autoplay": false,
-              "loop": false
+              "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Festherprayerhouse%2Fvideos%2F1993528577636203%2F&show_text=0",
+              "autoplay": "on",
+              "loop": false,
+              "active": true,
+              "aspectratio": "4:3"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -1254,13 +1255,13 @@
               "color": "#bf1e2e"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fffffd"
+              "background": "#fffcf6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ffffee!important"
+              "background": "#fff7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fffffd"
+              "background": "#fffcf6"
             },
             ".bg-color.transparent .link": {
               "color": "#bf1e2e",
@@ -1387,7 +1388,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <br><br>\n<br><br>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"108\">Support Us</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"109\">Thank you for supporting Esther Prayer House with your giving. Your generosity is greatly appreciated!\n\nOn the next page, in the Price Per Item box, just type in the total amount of your donation and click continue.\n\nWe pray that the Lord blesses you financially as you bless the church with your giving! </p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\">\n                  <iframe class=\"mbr-embedded-video\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WynRl7SWdO0?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n                  <br>\n               \n            </div>\n<center>                  \n              \n            <a href=\"https://www.instamojo.com/@estherprayerhouse/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"Donate\">\n                            <button type=\"submit\" name=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\" code-editable-id=\"110\">Make a Donation</button>                           \n                       </a>\n    {JS_CODE_0}   \n    </center>        \n    </div>\n        </div>\n    </div>\n\n</section>\n",
+          "_customHTML": "\n<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <br><br>\n<br><br>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"108\">Support Us</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"109\">Thank you for supporting Esther Prayer House with your giving. Your generosity is greatly appreciated!\n\nOn the popup page, please mention purpose (tithe / TV ministry / general offering ) , amount click PAY. &nbsp;We pray that the Lord blesses you financially as you bless the church with your giving! </p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\">\n                  <iframe class=\"mbr-embedded-video\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WynRl7SWdO0?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n                  <br>\n               \n            </div>\n<center>                  \n              \n            <a href=\"https://www.instamojo.com/@estherprayerhouse/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"Donate\">\n                            <button type=\"submit\" name=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\" code-editable-id=\"110\">Make a Donation</button>                           \n                       </a>\n    {JS_CODE_0}   \n    </center>        \n    </div>\n        </div>\n    </div>\n\n</section>\n",
           "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n.mbr-section-title {\n  color: #fff;\n  line-height: 1;\n}\n.round-text {\n  color: #fff;\n  text-align: left;\n  font-family: 'Oxygen', sans-serif;\n}\n",
           "alias": "code-editor",
           "_tags": [
