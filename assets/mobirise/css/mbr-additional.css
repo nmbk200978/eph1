@@ -580,19 +580,19 @@ a:hover {
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-menu {
-  background: #fffffd;
+  background: #fffcf6;
 }
 #menu2-b .nav-dropdown-sm .link:focus,
 #menu2-b .nav-dropdown-sm .link:hover,
 #menu2-b .nav-dropdown-sm .dropdown-item:focus,
 #menu2-b .nav-dropdown-sm .dropdown-item:hover {
-  background: #ffffee!important;
+  background: #fff7e7!important;
 }
 #menu2-b .navbar,
 #menu2-b .nav-dropdown-sm,
 #menu2-b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-b .nav-dropdown-sm .dropdown-menu {
-  background: #fffffd;
+  background: #fffcf6;
 }
 #menu2-b .bg-color.transparent .link {
   color: #bf1e2e;
@@ -671,15 +671,6 @@ a:hover {
 #form1-1d .heading-title {
   color: #bf1e2e;
   text-align: left;
-}
-#custom-html-1h {
-  /* Type valid CSS here */
-}
-#custom-html-1h .my-image {
-  width: 100%;
-}
-#custom-html-1h .bkbodytext {
-  color: #bf1e2e;
 }
 #custom-html-r {
   /* Type valid CSS here */
@@ -1017,6 +1008,111 @@ a:hover {
   width: 100%;
 }
 
+#menu2-3q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-3q .navbar-toggler {
+  color: #bf1e2e;
+}
+#menu2-3q .close-icon::before,
+#menu2-3q .close-icon::after {
+  background-color: #bf1e2e;
+}
+#menu2-3q .link,
+#menu2-3q .dropdown-item {
+  color: #bf1e2e;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu2-3q .link {
+  font-size: 1rem;
+}
+#menu2-3q .dropdown-item,
+#menu2-3q .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu2-3q .link:hover,
+#menu2-3q .link:focus {
+  color: #2d2d2d;
+}
+#menu2-3q .dropdown-item:hover::before,
+#menu2-3q .dropdown-item:focus::before {
+  background: #2d2d2d;
+}
+#menu2-3q .dropdown-item:hover,
+#menu2-3q .dropdown-item:focus {
+  color: #bf1e2e;
+}
+#menu2-3q .link[aria-expanded="true"],
+#menu2-3q .dropdown-menu {
+  background: #fffffd;
+}
+#menu2-3q .nav-dropdown-sm .link:focus,
+#menu2-3q .nav-dropdown-sm .link:hover,
+#menu2-3q .nav-dropdown-sm .dropdown-item:focus,
+#menu2-3q .nav-dropdown-sm .dropdown-item:hover {
+  background: #ffffee!important;
+}
+#menu2-3q .navbar,
+#menu2-3q .nav-dropdown-sm,
+#menu2-3q .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-3q .nav-dropdown-sm .dropdown-menu {
+  background: #fffffd;
+}
+#menu2-3q .bg-color.transparent .link {
+  color: #bf1e2e;
+  transition: none;
+}
+#menu2-3q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-3q .bg-color.transparent.opened .link:hover,
+#menu2-3q .bg-color.transparent.opened .link:focus {
+  color: #2d2d2d;
+}
+#menu2-3q .link[aria-expanded="true"],
+#menu2-3q .dropdown-item[aria-expanded="true"] {
+  color: #2d2d2d!important;
+}
+#menu2-3q .navbar-caption {
+  font-size: 20px;
+}
+#footer2-3r .footer-list {
+  color: #dfd9ca;
+}
+#footer2-3r .btn-social {
+  border-color: #dfd9ca;
+  color: #dfd9ca;
+}
+#footer2-3r .btn-social:hover {
+  background: #dfd9ca;
+  color: #fff;
+}
+#footer2-3r .footer-header B {
+  color: #bf1e2e;
+}
+#footer2-3r .footer-header {
+  color: #bf1e2e;
+}
+#footer2-3r LI {
+  color: #bf1e2e;
+}
+#custom-html-3s {
+  
+}
+#custom-html-3s .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#custom-html-3s .round-text {
+  color: #fff;
+  text-align: left;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header4-3f .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #header4-3f .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1068,19 +1164,19 @@ a:hover {
 }
 #menu2-3g .link[aria-expanded="true"],
 #menu2-3g .dropdown-menu {
-  background: #fffffd;
+  background: #fffcf6;
 }
 #menu2-3g .nav-dropdown-sm .link:focus,
 #menu2-3g .nav-dropdown-sm .link:hover,
 #menu2-3g .nav-dropdown-sm .dropdown-item:focus,
 #menu2-3g .nav-dropdown-sm .dropdown-item:hover {
-  background: #ffffee!important;
+  background: #fff7e7!important;
 }
 #menu2-3g .navbar,
 #menu2-3g .nav-dropdown-sm,
 #menu2-3g .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-3g .nav-dropdown-sm .dropdown-menu {
-  background: #fffffd;
+  background: #fffcf6;
 }
 #menu2-3g .bg-color.transparent .link {
   color: #bf1e2e;
@@ -1159,15 +1255,6 @@ a:hover {
 #form1-3k .heading-title {
   color: #bf1e2e;
   text-align: left;
-}
-#custom-html-3l {
-  /* Type valid CSS here */
-}
-#custom-html-3l .my-image {
-  width: 100%;
-}
-#custom-html-3l .heading-title {
-  color: #bf1e2e;
 }
 #custom-html-3m {
   /* Type valid CSS here */
