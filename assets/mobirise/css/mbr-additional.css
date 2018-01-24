@@ -580,19 +580,19 @@ a:hover {
 }
 #menu2-b .link[aria-expanded="true"],
 #menu2-b .dropdown-menu {
-  background: #fffcf6;
+  background: #fffffd;
 }
 #menu2-b .nav-dropdown-sm .link:focus,
 #menu2-b .nav-dropdown-sm .link:hover,
 #menu2-b .nav-dropdown-sm .dropdown-item:focus,
 #menu2-b .nav-dropdown-sm .dropdown-item:hover {
-  background: #fff7e7!important;
+  background: #ffffee!important;
 }
 #menu2-b .navbar,
 #menu2-b .nav-dropdown-sm,
 #menu2-b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu2-b .nav-dropdown-sm .dropdown-menu {
-  background: #fffcf6;
+  background: #fffffd;
 }
 #menu2-b .bg-color.transparent .link {
   color: #bf1e2e;
