@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EPH-Version1.0",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -232,7 +232,7 @@
               "title": ""
             },
             "video": {
-              "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Festherprayerhouse%2Fvideos%2F1993528577636203%2F&show_text=0",
+              "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Festherprayerhouse%2Fvideos%2F1993528577636203%2F&show_text=0&data-autoplay=true",
               "autoplay": "on",
               "loop": false,
               "active": true,
@@ -627,782 +627,6 @@
         }
       ]
     },
-    "page2.html": {
-      "settings": {
-        "title": "Social",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 4
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#bf1e2e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#bf1e2e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#bf1e2e",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#2d2d2d"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#bf1e2e"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ffffee!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#bf1e2e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2d2d2d!important"
-            },
-            ".navbar-caption": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#fffcf6",
-            "fontSize": "1",
-            "imageSize": "5",
-            "fontName": {
-              "name": "Oxygen",
-              "css": "'Oxygen', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "fontColor": "#bf1e2e",
-            "fontHoverColor": "#2d2d2d"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header4-39",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-2o"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": "1",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.6"
-          },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
-          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
-          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
-          "list5": "Ministries",
-          "list6": "Support Us",
-          "list7": "",
-          "list8": "",
-          "list9": "",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            },
-            ".footer-header B": {
-              "color": "#bf1e2e"
-            },
-            ".footer-header": {
-              "color": "#bf1e2e"
-            },
-            "LI": {
-              "color": "#bf1e2e"
-            }
-          },
-          "_anchor": "footer2-2p"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "postToLoad": "5",
-            "facebook": "estherprayerhouse",
-            "twitter": "estherprayers",
-            "google": "estherprayerhouse",
-            "youtube": "UCCMKIY49CpccMyP9MKRiZsQ",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.7"
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-2s"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Testimony",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#bf1e2e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#bf1e2e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#bf1e2e",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#2d2d2d"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#bf1e2e"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ffffee!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#bf1e2e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2d2d2d!important"
-            },
-            ".navbar-caption": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#fffcf6",
-            "fontSize": "1",
-            "imageSize": "5",
-            "fontName": {
-              "name": "Oxygen",
-              "css": "'Oxygen', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "fontColor": "#bf1e2e",
-            "fontHoverColor": "#2d2d2d"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header4-39",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-2u"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": "1",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.6"
-          },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
-          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
-          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
-          "list5": "Ministries",
-          "list6": "Support Us",
-          "list7": "",
-          "list8": "",
-          "list9": "",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            },
-            ".footer-header B": {
-              "color": "#bf1e2e"
-            },
-            ".footer-header": {
-              "color": "#bf1e2e"
-            },
-            "LI": {
-              "color": "#bf1e2e"
-            }
-          },
-          "_anchor": "footer2-2v"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-2w"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 100px; padding-bottom: 40px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n        <div class=\"mbr-figure\">\n                          \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"79\">Testimonies</h3>\n              <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n    </div>\n</section>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-2x"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Gallery",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#bf1e2e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#bf1e2e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#bf1e2e",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#2d2d2d"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#bf1e2e"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ffffee!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fffffd"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#bf1e2e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2d2d2d!important"
-            },
-            ".navbar-caption": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#fffcf6",
-            "fontSize": "1",
-            "imageSize": "5",
-            "fontName": {
-              "name": "Oxygen",
-              "css": "'Oxygen', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "fontColor": "#bf1e2e",
-            "fontHoverColor": "#2d2d2d"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header4-39",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-31"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": "1",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.6"
-          },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
-          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
-          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
-          "list5": "Ministries",
-          "list6": "Support Us",
-          "list7": "",
-          "list8": "",
-          "list9": "",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            },
-            ".footer-header B": {
-              "color": "#bf1e2e"
-            },
-            ".footer-header": {
-              "color": "#bf1e2e"
-            },
-            "LI": {
-              "color": "#bf1e2e"
-            }
-          },
-          "_anchor": "footer2-32"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"embedsocial-album\" data-ref=\"3a7c8fdac8bb6765a115068c19223fb7738a89fe\"></div>{JS_CODE_0}",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/embedscript/ei.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js);}(document, \"script\", \"EmbedSocialScript\"));</script>"
-          ],
-          "_anchor": "custom-html-34"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "title": "Payment",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#bf1e2e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#bf1e2e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#bf1e2e",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#2d2d2d"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#bf1e2e"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#fffcf6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fff7e7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fffcf6"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#bf1e2e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#2d2d2d"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2d2d2d!important"
-            },
-            ".navbar-caption": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#fffcf6",
-            "fontSize": "1",
-            "imageSize": "5",
-            "fontName": {
-              "name": "Oxygen",
-              "css": "'Oxygen', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "fontColor": "#bf1e2e",
-            "fontHoverColor": "#2d2d2d"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header4-39",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_anchor": "menu2-3q"
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": "1",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": "0.6"
-          },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
-          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
-          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
-          "list5": "Ministries",
-          "list6": "Support Us",
-          "list7": "",
-          "list8": "",
-          "list9": "",
-          "list10": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            },
-            ".footer-header B": {
-              "color": "#bf1e2e"
-            },
-            ".footer-header": {
-              "color": "#bf1e2e"
-            },
-            "LI": {
-              "color": "#bf1e2e"
-            }
-          },
-          "_anchor": "footer2-3r"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "\n<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <br><br>\n<br><br>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"108\">Support Us</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"109\">Thank you for supporting Esther Prayer House with your giving. Your generosity is greatly appreciated!\n\nOn the popup page, please mention purpose (tithe / TV ministry / general offering ) , amount click PAY. &nbsp;We pray that the Lord blesses you financially as you bless the church with your giving! </p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\">\n                  <iframe class=\"mbr-embedded-video\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WynRl7SWdO0?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n                  <br>\n               \n            </div>\n<center>                  \n              \n            <a href=\"https://www.instamojo.com/@estherprayerhouse/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"Donate\">\n                            <button type=\"submit\" name=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\" code-editable-id=\"110\">Make a Donation</button>                           \n                       </a>\n    {JS_CODE_0}   \n    </center>        \n    </div>\n        </div>\n    </div>\n\n</section>\n",
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n.mbr-section-title {\n  color: #fff;\n  line-height: 1;\n}\n.round-text {\n  color: #fff;\n  text-align: left;\n  font-family: 'Oxygen', sans-serif;\n}\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-3s",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"https://js.instamojo.com/v1/button.js\"></script>"
-          ]
-        }
-      ]
-    },
     "Home2.html": {
       "settings": {
         "title": "OtherHome",
@@ -1448,7 +672,13 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  color: #ffffff;\n  font-size: 48px;\n  text-align: left;\n}\n.heading-title B {\n  font-size: 60px;\n  color: #ffffff;\n}\n.heading-text {\n  text-align: left;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
         },
         {
           "_styles": {
@@ -1955,6 +1185,782 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_anchor": "custom-html-3p"
+        }
+      ]
+    },
+    "payments.html": {
+      "settings": {
+        "title": "Payment",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bf1e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bf1e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bf1e2e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2d2d2d"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bf1e2e"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fff7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bf1e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fffcf6",
+            "fontSize": "1",
+            "imageSize": "5",
+            "fontName": {
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "fontColor": "#bf1e2e",
+            "fontHoverColor": "#2d2d2d"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-39",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-3q"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "1",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
+          },
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "list1": "",
+          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
+          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
+          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
+          "list5": "Ministries",
+          "list6": "Support Us",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header B": {
+              "color": "#bf1e2e"
+            },
+            ".footer-header": {
+              "color": "#bf1e2e"
+            },
+            "LI": {
+              "color": "#bf1e2e"
+            }
+          },
+          "_anchor": "footer2-3r"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n<section class=\"mbr-section msg-box3\" data-rv-view=\"75\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1600x1080.jpg&quot;); padding-top: 50px; padding-bottom: 50px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(255, 255, 255);\">\n    </div>\n    <br><br>\n<br><br>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"wraper\" style=\"text-align: right; background: linear-gradient(to right top, rgb(191, 30, 46), rgb(196, 140, 206)) rgb(191, 30, 46);\">\n  \n              \n\n              \n\n              <!-- inverse -->\n              <div class=\"mbr-table-cell col-md-6 content\">\n                  <h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"108\">Support Us</h1>\n                  <div class=\"icons-block\">\n                      <div class=\"container\">\n                      <div class=\"row\" style=\"width: 100%\">\n                        <div class=\"col-md-4 icons-item col-md-12\">\n                          \n                          <p class=\"round-text text-1 text-center mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"109\">Thank you for supporting Esther Prayer House with your giving. Your generosity is greatly appreciated!\n\nOn the popup page, please mention purpose (tithe / TV ministry / general offering ) , amount click PAY. &nbsp;We pray that the Lord blesses you financially as you bless the church with your giving! </p>\n                        </div>\n                        \n                      </div>\n                      </div>\n                  </div>\n              </div>\n\n              <div class=\"mbr-table-cell mbr-figure col-md-6\" style=\"width: 50%;\">\n                  <iframe class=\"mbr-embedded-video\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WynRl7SWdO0?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1\" frameborder=\"0\" gesture=\"media\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>\n                  <br>\n               \n            </div>\n<center>                  \n              \n            <a href=\"https://www.instamojo.com/@estherprayerhouse/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"Donate\">\n                            <button type=\"submit\" name=\"submit\" class=\"btn btn-lg btn-primary mbr-editable-button\" code-editable-id=\"110\">Make a Donation</button>                           \n                       </a>\n    {JS_CODE_0}   \n    </center>        \n    </div>\n        </div>\n    </div>\n\n</section>\n",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n.mbr-section-title {\n  color: #fff;\n  line-height: 1;\n}\n.round-text {\n  color: #fff;\n  text-align: left;\n  font-family: 'Oxygen', sans-serif;\n}\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-3s",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://js.instamojo.com/v1/button.js\"></script>"
+          ]
+        }
+      ]
+    },
+    "testimonies.html": {
+      "settings": {
+        "title": "Testimony",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bf1e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bf1e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bf1e2e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2d2d2d"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bf1e2e"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fff7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bf1e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fffcf6",
+            "fontSize": "1",
+            "imageSize": "5",
+            "fontName": {
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "fontColor": "#bf1e2e",
+            "fontHoverColor": "#2d2d2d"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-39",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-2u"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "1",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
+          },
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "list1": "",
+          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
+          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
+          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
+          "list5": "Ministries",
+          "list6": "Support Us",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header B": {
+              "color": "#bf1e2e"
+            },
+            ".footer-header": {
+              "color": "#bf1e2e"
+            },
+            "LI": {
+              "color": "#bf1e2e"
+            }
+          },
+          "_anchor": "footer2-2v"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-2w"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n<section class=\"mbr-section mbr-section-hero features17\" data-rv-view=\"46\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(191, 30, 46)) rgb(255, 255, 255); padding-top: 100px; padding-bottom: 40px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(255, 255, 253);\"></div>\n        <div class=\"mbr-figure\">\n                          \n<h3 class=\"mbr-section-title display-6 heading-title mbr-editable-content\" code-editable-id=\"79\">Testimonies</h3>\n              <iframe class=\"mbr-embedded-video\" src=\"https://www.youtube-nocookie.com/embed/videoseries?list=PLrdlTLIeEfYI_Ui_6Agx-oyooIZpQ9k3Q\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n    </div>\n</section>\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\n.heading-title {\n  font-family: 'Oxygen', sans-serif;\n  color: #bf1e2e;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-2x"
+        }
+      ]
+    },
+    "social.html": {
+      "settings": {
+        "title": "Social",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bf1e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bf1e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bf1e2e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2d2d2d"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bf1e2e"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fff7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bf1e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fffcf6",
+            "fontSize": "1",
+            "imageSize": "5",
+            "fontName": {
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "fontColor": "#bf1e2e",
+            "fontHoverColor": "#2d2d2d"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-39",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-2o"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "1",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
+          },
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "list1": "",
+          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
+          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
+          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
+          "list5": "Ministries",
+          "list6": "Support Us",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header B": {
+              "color": "#bf1e2e"
+            },
+            ".footer-header": {
+              "color": "#bf1e2e"
+            },
+            "LI": {
+              "color": "#bf1e2e"
+            }
+          },
+          "_anchor": "footer2-2p"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "postToLoad": "5",
+            "facebook": "estherprayerhouse",
+            "twitter": "estherprayers",
+            "google": "estherprayerhouse",
+            "youtube": "UCCMKIY49CpccMyP9MKRiZsQ",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.7"
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-2s"
+        }
+      ]
+    },
+    "gallery.html": {
+      "settings": {
+        "title": "Gallery",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#bf1e2e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#bf1e2e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#bf1e2e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2d2d2d"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#bf1e2e"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#fff7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fffcf6"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#bf1e2e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2d2d2d!important"
+            },
+            ".navbar-caption": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fffcf6",
+            "fontSize": "1",
+            "imageSize": "5",
+            "fontName": {
+              "name": "Oxygen",
+              "css": "'Oxygen', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "fontColor": "#bf1e2e",
+            "fontHoverColor": "#2d2d2d"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-1u\">Announcement</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-s\">Belief</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-w\" aria-expanded=\"false\">Ministries</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1d\" aria-expanded=\"false\">Prayer Request</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Testimonies</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Media</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#feed-2s\">Youtube &amp; Facebook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Gallery</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Support Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-r\" aria-expanded=\"false\">Schedule</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-l\" aria-expanded=\"false\">Location</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/esther-prayer-house-logos-177x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header4-39",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Esther Prayer House</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-31"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "1",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/footer-1999x577.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6"
+          },
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-97411-29270\" class=\"text-primary\">+91 97411 29270</a> / <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "list1": "",
+          "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
+          "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
+          "list4": "<a href=\"http://mobirise.com\" class=\"text-primary\">L</a>ocation",
+          "list5": "Ministries",
+          "list6": "Support Us",
+          "list7": "",
+          "list8": "",
+          "list9": "",
+          "list10": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/estherprayers\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/estherprayerhouse\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/3/108722804373794459468\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCMKIY49CpccMyP9MKRiZsQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/estherprayerhouse/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header B": {
+              "color": "#bf1e2e"
+            },
+            ".footer-header": {
+              "color": "#bf1e2e"
+            },
+            "LI": {
+              "color": "#bf1e2e"
+            }
+          },
+          "_anchor": "footer2-32"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"embedsocial-album\" data-ref=\"3a7c8fdac8bb6765a115068c19223fb7738a89fe\"></div>{JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = \"https://embedsocial.com/embedscript/ei.js\"; d.getElementsByTagName(\"head\")[0].appendChild(js);}(document, \"script\", \"EmbedSocialScript\"));</script>"
+          ],
+          "_anchor": "custom-html-34"
         }
       ]
     }
