@@ -30,7 +30,7 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 140,
-    "versionPublish": "4.4.0",
+    "versionPublish": "4.8.1",
     "mcShopcart": {
       "email": "estherprayerhouse@gmail.com",
       "iconSize": "30",
@@ -50,7 +50,8 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -232,11 +233,11 @@
               "title": ""
             },
             "video": {
-              "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Festherprayerhouse%2Fvideos%2F1993528577636203%2F&show_text=0&data-autoplay=true",
+              "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Festherprayerhouse%2Fvideos%2F2080742275581499%2F&show_text=0&width=560",
               "autoplay": "on",
-              "loop": false,
+              "loop": "on",
               "active": true,
-              "aspectratio": "4:3"
+              "aspectratio": "16:9"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -571,7 +572,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.7"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1132,7 +1133,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1316,7 +1317,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1505,7 +1506,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1707,7 +1708,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
@@ -1906,7 +1907,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": "0.6"
           },
-          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98861 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
+          "heading": "<b><a href=\"index.html\" class=\"text-primary\"><br></a></b><br><b><a href=\"index.html\" class=\"text-primary\"><br></a></b><b><a href=\"index.html\" class=\"text-primary\">Esther Prayer House</a> /&nbsp;<a href=\"tel:+91-98862-11244\" class=\"text-primary\">+91 98862 11244 </a>/ <a href=\"mailto:estherprayerhouse@gmail.com\" class=\"text-primary\">estherprayerhouse@gmail.com</a></b><br>412, 4th Main, 2nd Block, HRBR Layout, Near-Petrol Pump,Kalyan Nagar, Bengaluru, Karnataka 560084, India<br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\" class=\"text-primary\">C</a>alendar",
           "list3": "<a href=\"http://mobirise.com\" class=\"text-primary\">M</a>edia",
