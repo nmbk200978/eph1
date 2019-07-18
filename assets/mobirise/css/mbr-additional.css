@@ -719,6 +719,10 @@ a:hover {
   width: 100%;
 }
 
+#header4-3f .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #header4-3f .mbr-table-cell {
   vertical-align: middle;
 }
